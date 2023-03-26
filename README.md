@@ -16,7 +16,7 @@ Dillinger uses a number of open source projects to work properly:
 
 ## Installation
 Install the dependencies and devDependencies and start the server.
-Create .env file and add SECRET_KEY as Chat-GPT API KEY
+Create .env file and add Chat-GPT API KEY as  SECRET_KEY
 
 ```sh
 npm i
